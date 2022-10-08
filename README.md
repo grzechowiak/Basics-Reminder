@@ -1,2 +1,2 @@
-# Pandas-Basics-Reminder
-Pandas Basics Reminder
+# Basics-Reminder
+Basics Reminder
